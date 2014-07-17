@@ -4,7 +4,8 @@
   "description": "Flat colors for your terminal.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "gconftool-2 --load terminal-flat-theme.xml"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
