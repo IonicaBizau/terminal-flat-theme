@@ -1,0 +1,11 @@
+{
+  "name": "terminal-flat-theme",
+  "version": "0.0.0",
+  "description": "Flat colors for your terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT"
+}
