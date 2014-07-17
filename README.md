@@ -1,6 +1,8 @@
 # Terminal Flat Theme
 Flat colors for your terminal.
 
+![](http://i.imgur.com/4IEq42Q.png)
+
 # Installation
 
 ## Using `npm`
