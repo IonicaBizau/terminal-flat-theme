@@ -1,13 +1,20 @@
-# terminal-flat-theme
+# Terminal Flat Theme
 Flat colors for your terminal.
 
-## Installation
-Run the following commands to download and install the application:
+# Installation
+
+## Using `npm`
+
+```sh
+$ npm install terminal-flat-theme
+```
+
+## Cloning the repository
 
 ```sh
 $ git clone https://github.com/IonicaBizau/terminal-flat-theme.git terminal-flat-theme
 $ cd terminal-flat-theme
-$ npm install
+$ gconftool-2 --load terminal-flat-theme.xml
 ```
 
 ## How to contribute
