@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonicaBizau/terminal-flat-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/terminal-flat-theme/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/terminal-flat-theme",
+  "keywords": [
+    "flat",
+    "ui",
+    "theme",
+    "terminal",
+    "ubuntu"
+  ]
 }
