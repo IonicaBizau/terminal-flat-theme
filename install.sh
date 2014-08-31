@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Backupping the current theme ..."
-BACKUP_THEME_PATH="~/.terminal-theme.bkp.xml";
-if [ -f = $BACKUP_THEME_PATH ]
+BACKUP_THEME_PATH="/home/$USER/.terminal-theme.bkp.xml";
+if [ -f $BACKUP_THEME_PATH ]
 then
     echo "File $BACKUP_THEME_PATH exists. Please delete it before installing this package."
     exit 1;
