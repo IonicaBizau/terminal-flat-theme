@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "gconftool-2 --load terminal-flat-theme.xml"
+    "install": "./install.sh",
+    "uninstall": "./uninstall.sh"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
