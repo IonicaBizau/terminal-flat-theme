@@ -11,13 +11,17 @@ Flat colors for your terminal.
 $ npm install terminal-flat-theme
 ```
 
+To uninstall the theme, simply do `npm uninstall terminal-flat-theme`.
+
 ## Cloning the repository
 
 ```sh
 $ git clone https://github.com/IonicaBizau/terminal-flat-theme.git terminal-flat-theme
 $ cd terminal-flat-theme
-$ gconftool-2 --load terminal-flat-theme.xml
+$ ./install.sh
 ```
+
+To revert the changes, do: `./uninstall.sh`.
 
 ## How to contribute
 
