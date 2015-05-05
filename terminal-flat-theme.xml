@@ -360,7 +360,7 @@
       <key>profiles/Default/default_show_menubar</key>
       <schema_key>/schemas/apps/gnome-terminal/profiles/Default/default_show_menubar</schema_key>
       <value>
-        <bool>true</bool>
+        <bool>false</bool>
       </value>
     </entry>
     <entry>
@@ -430,7 +430,7 @@
       <key>profiles/Default/palette</key>
       <schema_key>/schemas/apps/gnome-terminal/profiles/Default/palette</schema_key>
       <value>
-        <string>#000000000000:#FFFF686458BE:#F3F39C9C1211:#C4C4A0A00000:#7A7BB801F69C:#D0D07574F0F0:#F1F1C4C30F0F:#D3D3D7D7CFCF:#555557575353:#EFEF29292929:#F5F579790000:#FCFCE9E94F4F:#4902ABDAEE13:#BFAA7382DF91:#3434E2E2E2E2:#EEEEEEEEECEC</string>
+        <string>#000000000000:#CDCB00000000:#0000CDCB0000:#CDCBCDCB0000:#1E1A908FFFFF:#CDCB0000CDCB:#0000CDCBCDCB:#E5E2E5E2E5E2:#4CCC4CCC4CCC:#FFFF00000000:#0000FFFF0000:#FFFFFFFF0000:#46458281B4AE:#FFFF0000FFFF:#0000FFFFFFFF:#FFFFFFFFFFFF</string>
       </value>
     </entry>
     <entry>
