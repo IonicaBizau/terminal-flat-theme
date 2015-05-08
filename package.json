@@ -1,6 +1,6 @@
 {
   "name": "terminal-flat-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Flat colors for your terminal.",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,6 @@
   "contributors": [
     "krishneel <krishneel@outlook.com>"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/IonicaBizau/terminal-flat-theme.git"
-  },
   "bugs": {
     "url": "https://github.com/IonicaBizau/terminal-flat-theme/issues"
   },
