@@ -1,15 +1,14 @@
 {
   "name": "terminal-flat-theme",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Flat colors for your terminal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "./install.sh",
-    "uninstall": "./uninstall.sh"
+    "install": "./install.sh"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "license": "KINDLY",
   "repository": {
     "type": "git",
     "url": "https://github.com/IonicaBizau/terminal-flat-theme.git"
