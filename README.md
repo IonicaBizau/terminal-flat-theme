@@ -17,7 +17,7 @@
 
 Flat colors for your terminal.
 
-![](http://i.imgur.com/4IEq42Q.png)
+![](http://i.imgur.com/5AYpxNl.png)
 
 ## Installation
 
