@@ -40,7 +40,7 @@ $ ./install.sh
 To switch back to the original scheme just switch the profile in the terminal preferences, since the script above
 will just create a new profile.
 
-Currently this repository contains the scheme for Gnome Terminal (default terminal in Ubuntu) and Terminal.app. However, you can use [this link](http://terminal.sexy/#FSIvLsxxNEle50w86blu85wSWrTwm1m28cQP7PDxLD5QwDkrFqCFlaWmKYC5jkStJ65g7PDx)
+Currently this repository contains the scheme for Gnome Terminal (default terminal in Ubuntu) and Terminal.app. However, you can use [this link](http://terminal.sexy/#LD5QLsxxNEle50w86blu85wSWrTwm1m28cQP7PDxLD5QwDkrFqCFlaWmKYC5jkStJ65g7PDx)
 to export this theme for your terminal.
 
 After running the script above, you have to select the new profile.
