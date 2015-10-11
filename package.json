@@ -26,5 +26,8 @@
     "theme",
     "terminal",
     "ubuntu"
-  ]
+  ],
+  "blah": {
+      "ex_img": "http://i.imgur.com/ssWX62k.jpg"
+  }
 }
