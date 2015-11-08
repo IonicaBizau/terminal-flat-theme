@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "./install.sh"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "repository": {
     "type": "git",
@@ -29,6 +29,58 @@
     "ubuntu"
   ],
   "blah": {
-      "ex_img": "http://i.imgur.com/ssWX62k.jpg"
+    "ex_img": "http://i.imgur.com/ssWX62k.jpg",
+    "title": "Terminal Flat Theme",
+    "show_installation": false,
+    "show_docs": false,
+    "show_usage": false,
+    "installation": [
+      {
+        "h2": "Installation"
+      },
+      {
+        "h3": "Using `npm`"
+      },
+      {
+        "code": {
+          "language": "sh",
+          "content": [
+            "# This is currently compatible with Gnome Terminal only",
+            "$ npm i terminal-flat-theme"
+          ]
+        }
+      },
+      {
+        "h3": "Cloning the repository"
+      },
+      {
+        "code": {
+          "language": "sh",
+          "content": [
+            "$ git clone https://github.com/IonicaBizau/terminal-flat-theme.git terminal-flat-theme",
+            "$ cd terminal-flat-theme",
+            "# The install script is currently compatible with Gnome Terminal only",
+            "$ ./install.sh"
+          ]
+        }
+      },
+      {
+        "p": [
+          "To switch back to the original scheme just switch the profile in the terminal preferences, since the script above will just create a new profile.",
+          "Currently this repository contains the scheme for Gnome Terminal (default terminal in Ubuntu) and Terminal.app. However, you can use [this link](http://terminal.sexy/#LD5QLsxxNEle50w86blu85wSWrTwm1m28cQP7PDxLD5QwDkrFqCFlaWmKYC5jkStJ65g7PDx) to export this theme for your terminal.",
+          "After running the script above, you have to select the new profile."
+        ]
+      },
+      {
+        "blockquote": [
+          {
+            "img": {
+              "source": "http://i.imgur.com/jyKoljR.png"
+            }
+          },
+          "In Gnome Terminal, you have to go to `Edit > Preferences -> Profile tab`"
+        ]
+      }
+    ]
   }
 }
