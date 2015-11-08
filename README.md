@@ -27,6 +27,12 @@ After running the script above, you have to select the new profile.
 
 > In Gnome Terminal, you have to go to `Edit > Preferences -> Profile tab`
 
+## How to contribute
+Have an idea? Found a bug? See [how to contribute][contributing].
+
+## Thanks
+This theme was created using [this nice thingy](http://terminal.sexy/) and [FlatColors](http://flatuicolors.com/). So, big thanks to these guys! :cake:
+
 ## License
 
 [KINDLY][license] © [Ionică Bizău][website]

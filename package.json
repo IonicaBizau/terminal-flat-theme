@@ -1,6 +1,6 @@
 {
   "name": "terminal-flat-theme",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Flat colors for your terminal.",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,9 @@
   "blah": {
     "ex_img": "http://i.imgur.com/ssWX62k.jpg",
     "title": "Terminal Flat Theme",
+    "thanks": [
+      "This theme was created using [this nice thingy](http://terminal.sexy/) and [FlatColors](http://flatuicolors.com/). So, big thanks to these guys! :cake:"
+    ],
     "show_installation": false,
     "show_docs": false,
     "show_usage": false,
