@@ -1,4 +1,5 @@
 # Terminal Flat Theme [![Support this project][donate-now]][paypal-donations]
+
 Flat colors for your terminal.
 
 [![terminal-flat-theme](http://i.imgur.com/ssWX62k.jpg)](#)
