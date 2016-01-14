@@ -1,6 +1,6 @@
 {
   "name": "terminal-flat-theme",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Flat colors for your terminal.",
   "main": "index.js",
   "scripts": {

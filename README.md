@@ -1,6 +1,6 @@
-# Terminal Flat Theme [![Support this project][donate-now]][paypal-donations]
+# Terminal Flat Theme [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/terminal-flat-theme.svg)](https://www.npmjs.com/package/terminal-flat-theme) [![Downloads](https://img.shields.io/npm/dt/terminal-flat-theme.svg)](https://www.npmjs.com/package/terminal-flat-theme) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Flat colors for your terminal.
+> Flat colors for your terminal.
 
 [![terminal-flat-theme](http://i.imgur.com/ssWX62k.jpg)](#)
 
