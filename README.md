@@ -2,7 +2,7 @@
 
 > Flat colors for your terminal.
 
-[![terminal-flat-theme](http://i.imgur.com/ssWX62k.jpg)](#)
+[![terminal-flat-theme](http://i.imgur.com/FPKTTj3.png)](#)
 
 ## Installation
 ### Using `npm`
@@ -20,7 +20,7 @@ $ ./install.sh
 
 To switch back to the original scheme just switch the profile in the terminal preferences, since the script above will just create a new profile.
 
-Currently this repository contains the scheme for Gnome Terminal (default terminal in Ubuntu) and Terminal.app. However, you can use [this link](http://terminal.sexy/#LD5QLsxxNEle50w86blu85wSWrTwm1m28cQP7PDxLD5QwDkrFqCFlaWmKYC5jkStJ65g7PDx) to export this theme for your terminal.
+Currently this repository contains the scheme for Gnome Terminal (default terminal in Ubuntu) and Terminal.app. However, you can use [this link](http://terminal.sexy/#FyY0-vr6V2x_7mJUUNqL_blNY7Hlx4HlU97DuLu7eY6j_HtuZfai_dhAYrz51J3rV-3P2-Dg) to export this theme for your terminal.
 
 After running the script above, you have to select the new profile.
 
