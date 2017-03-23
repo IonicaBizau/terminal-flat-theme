@@ -28,7 +28,7 @@ Currently this repository contains the scheme for Gnome Terminal (default termin
 After running the script above, you have to select the new profile.
 
 > ![](http://i.imgur.com/jyKoljR.png)
->
+
 > In Gnome Terminal, you have to go to `Edit > Preferences -> Profile tab`
 
 
