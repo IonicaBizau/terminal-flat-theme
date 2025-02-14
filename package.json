@@ -1,6 +1,6 @@
 {
   "name": "terminal-flat-theme",
-  "version": "2.3.9",
+  "version": "2.3.10",
   "description": "Flat colors for your terminal.",
   "main": "lib/index.js",
   "scripts": {
@@ -97,6 +97,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
